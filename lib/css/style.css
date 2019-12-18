@@ -1,0 +1,31 @@
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}
+
+.forminput
+{
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+
+.jumbotron 
+{
+    background-image: url("https://images.pexels.com/photos/7374/startup-photos.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.jumbotron h1{
+    color: #fff;
+    
+}
+
+.jumbotron p{
+    color: #fff;
+}
+
+
